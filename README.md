@@ -6,7 +6,7 @@
 </div>
 
 
-## About me
+## 📖 About me
 - 💻 Developer since 2020
 - Web Development:
   - React
