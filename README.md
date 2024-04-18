@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**incari/incari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+    <h1>Heeey wake up!, I'm Martín</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+    <h3> Martín Racana | 💅 Frontend Developer | 📍 🇪🇸 Spain </h3>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📅 Hobbies
+- 🥋🇧🇷 Brazilian JiuJitsu
+- 🏂 Snowboard 
+- 🤑 Crypto
+- 🤿 Scuba Diving
+- 🎮 MMORPG games
+- etc...
+
+
+## 📫 Reach me
+
+   <a href="https://www.linkedin.com/in/mracana"><img height="30" src="https://www.linkedin.com/favicon.ico"></a>&nbsp;&nbsp;
